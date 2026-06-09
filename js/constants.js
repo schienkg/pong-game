@@ -11,7 +11,7 @@ const PADDLE_MARGIN = 20; // Distance from edge
 // Ball properties
 const BALL_SIZE = 10;
 const BALL_INITIAL_SPEED = 6;
-const MAX_BALL_SPEED = 12;
+const MAX_BALL_SPEED = 15;
 
 // Game states
 const GAME_STATE = {
